@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="481ca40c-61d8-4ccb-a031-519e54444686" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php-getting-started.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Cat Bootstrap.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,14 +116,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.php.quality.tools" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -165,7 +163,8 @@
       <workItem from="1549080048794" duration="1923000" />
       <workItem from="1549082674534" duration="89000" />
       <workItem from="1549082828631" duration="135000" />
-      <workItem from="1549083049707" duration="258000" />
+      <workItem from="1549083049707" duration="1127000" />
+      <workItem from="1549084447776" duration="982000" />
     </task>
     <task id="LOCAL-00001" summary="I added a title variable for header.html">
       <created>1549071007373</created>
@@ -192,12 +191,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13297000" />
+    <option name="totallyTimeSpent" value="15148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17246963" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17489879" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -211,8 +210,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49473685" visible="true" weight="0.38010657" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50526315" side_tool="true" visible="true" weight="0.38010657" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.41700405" visible="true" weight="0.38010657" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.58299595" side_tool="true" visible="true" weight="0.38010657" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
