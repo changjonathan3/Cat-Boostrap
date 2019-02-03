@@ -52,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/views/nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="153">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -191,7 +191,7 @@
       <workItem from="1549083049707" duration="1127000" />
       <workItem from="1549084447776" duration="1172000" />
       <workItem from="1549085722041" duration="1556000" />
-      <workItem from="1549142023795" duration="9867000" />
+      <workItem from="1549142023795" duration="10661000" />
     </task>
     <task id="LOCAL-00001" summary="I added a title variable for header.html">
       <created>1549071007373</created>
@@ -305,11 +305,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549149103110</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Edit Nav">
+      <created>1549158933931</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1549158933931</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Fixed Navbar template to show words.">
+      <created>1549159225982</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1549159225982</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26761000" />
+    <option name="totallyTimeSpent" value="27555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -360,7 +374,9 @@
     <MESSAGE value="Reformat Picture for size again." />
     <MESSAGE value="Center align picture" />
     <MESSAGE value="Center align picture take two." />
-    <option name="LAST_COMMIT_MESSAGE" value="Center align picture take two." />
+    <MESSAGE value="Edit Nav" />
+    <MESSAGE value="Fixed Navbar template to show words." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Navbar template to show words." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/images/favicon.png">
@@ -425,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/views/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
